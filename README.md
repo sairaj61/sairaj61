@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I’m Sairaj!
 
-<!--
-**sairaj61/sairaj61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** aspiring to make an impact in the **AI/ML** field. My journey is fueled by curiosity, creativity, and a drive to solve real-world problems through technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Currently building a **School Management Project**
+- 🛠️ Also working on a **Log Debugger Project**
+- 💡 Always excited to dive into new challenges and learn by solving problems
+- 🌱 On a continuous journey to deepen my expertise in **AI/ML**
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** Scala, Java, Python
+- **AI & ML:** Experimenting with modern tools and frameworks
+- **Web Tech:** React, FastAPI
+- **Database:** PostgreSQL
+
+---
+
+## 🏆 Featured Projects
+
+- **School Management Project:**  
+  Building an all-in-one platform to simplify and automate school operations.
+
+- **Log Debugger Project:**  
+  Creating tools to streamline debugging and enhance developer productivity.
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sk-sairaj-86a6a4134/)
+
+---
+
+## 🧩 Fun Fact
+
+I love the thrill of solving tough problems and believe every challenge is an opportunity to grow!
+
+---
+
+*Let’s connect and build something amazing together!*
